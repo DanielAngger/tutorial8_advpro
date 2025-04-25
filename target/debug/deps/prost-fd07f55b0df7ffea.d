@@ -1,0 +1,11 @@
+/Users/danielangger/Documents/Semester 4/adpro/tutorial8/grpc-tutorial/target/debug/deps/libprost-fd07f55b0df7ffea.rmeta: /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/lib.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/error.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/message.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/types.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/encoding.rs
+
+/Users/danielangger/Documents/Semester 4/adpro/tutorial8/grpc-tutorial/target/debug/deps/libprost-fd07f55b0df7ffea.rlib: /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/lib.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/error.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/message.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/types.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/encoding.rs
+
+/Users/danielangger/Documents/Semester 4/adpro/tutorial8/grpc-tutorial/target/debug/deps/prost-fd07f55b0df7ffea.d: /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/lib.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/error.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/message.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/types.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/encoding.rs
+
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/lib.rs:
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/error.rs:
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/message.rs:
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/types.rs:
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.10.4/src/encoding.rs:

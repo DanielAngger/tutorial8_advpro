@@ -1,0 +1,10 @@
+/Users/danielangger/Documents/Semester 4/adpro/tutorial8/grpc-tutorial/target/debug/deps/libtonic_build-9aee086edf2eb0e5.rmeta: /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/lib.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/prost.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/client.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/server.rs
+
+/Users/danielangger/Documents/Semester 4/adpro/tutorial8/grpc-tutorial/target/debug/deps/libtonic_build-9aee086edf2eb0e5.rlib: /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/lib.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/prost.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/client.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/server.rs
+
+/Users/danielangger/Documents/Semester 4/adpro/tutorial8/grpc-tutorial/target/debug/deps/tonic_build-9aee086edf2eb0e5.d: /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/lib.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/prost.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/client.rs /Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/server.rs
+
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/lib.rs:
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/prost.rs:
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/client.rs:
+/Users/danielangger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tonic-build-0.7.2/src/server.rs:
